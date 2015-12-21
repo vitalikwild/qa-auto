@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.thucydides:thucydides-junit:0.9.229">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/thucydides/thucydides-junit/0.9.229/thucydides-junit-0.9.229.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/thucydides/thucydides-junit/0.9.229/thucydides-junit-0.9.229-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/thucydides/thucydides-junit/0.9.229/thucydides-junit-0.9.229-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
